@@ -3,10 +3,20 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BetsabéNavarroLoyo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BetsabéNavarroLoyo)<br/>
+✉️ betsabenav@gmail.com
+
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![Android Studio](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg)
+![PyCharm](https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg)
+![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
+![visualstudio](https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg)
+![Postman](https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg)
+![selenium](https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg)
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=betsabenav&theme=dark&hide_border=false)<br/>
