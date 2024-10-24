@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋Hi! I'm Betsy<br>I'm QA Junior finishing my bootcamp in software testing.<br>I'm passionate about ensuring high-quality user experiences through meticulous testing.<br><br>🛠Skills:<br>-📝Test Documentation: Creating clear and effective test cases.<br>-🐞Bug Tracking: Experience with JIRA for error management.<br>-🔍Manual & Automated Testing: Proficient with tools like Selenium and Postman.<br>-💻 Programming: Basic knowledge of Python and SQL.<br><br>I'm eager to start my career in QA and contribute to delivering exceptional software quality!
+# 💫 Hi! I'm Betsy
+<br>I'm QA Junior finishing my bootcamp in software testing.👋🏽 <br>I'm passionate about ensuring high-quality user experiences through meticulous testing. 🌟 <br><br>🛠Skills:<br>-📝Test Documentation: Creating clear and effective test cases.<br>-🐞Bug Tracking: Experience with JIRA for error management.<br>-🔍Manual & Automated Testing: Proficient with tools like Selenium and Postman.<br>-💻 Programming: Basic knowledge of Python and SQL.<br><br> I thrive in collaborative environments where I can contribute my skills in both technical and interpersonal areas. I’m passionate about discovering bugs and improving user experiences. I’m committed to continuous learning and staying updated with industry best practices to help deliver exceptional software products!<br><br>I'm eager to start my career in QA and contribute to delivering exceptional software quality!
 
 
 ## 🌐 Socials:
@@ -9,12 +9,8 @@
 
 # 💻 Tech Stack:
 
-![Android Studio](https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg)
-![PyCharm](https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg)
-![Python](https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg)
-![visualstudio](https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg)
-![Postman](https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg)
-![selenium](https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" alt="Android Studio"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="50" alt="PyCharm"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50" alt="Python"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="50" alt="Visual Studio"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="50" alt="Postman"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="50" alt="Selenium"/>
+
 
 
 # 📊 GitHub Stats:
